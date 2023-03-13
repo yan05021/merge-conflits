@@ -1,3 +1,3 @@
-# merge-conflits
+LOCAL
 
 test for merge conflits
