@@ -1,3 +1,2 @@
-# merge-conflits
-
+REMOTE
 test for merge conflits
